@@ -1,0 +1,8 @@
+{
+"name":"Security Monitoring System",
+"description": "A system to monitor the assignment of keys to students ",
+"version": "0.0.1",
+"dependencies": {
+"express": "4.x"
+}
+}
